@@ -1,11 +1,11 @@
-package escola;
+package curso;
 
 public class Aluno {
-
+	
+	Endereco endereco;
+	Curso curso;
 	String nome;
 	int idade;
-	int id;
 	int cpf;
-	Curso curso;
-	Endereco endereco;
+	int id;
 }

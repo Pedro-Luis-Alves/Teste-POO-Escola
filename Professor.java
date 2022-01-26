@@ -1,9 +1,11 @@
-package escola;
+package curso;
 
 public class Professor {
-
-	String nome;
-	String formacao;
-	int id;
+	
 	Endereco endereco;
+	String nome;
+	int idade;
+	int cpf;
+	int id;
+	
 }

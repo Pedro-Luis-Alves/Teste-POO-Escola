@@ -1,7 +1,8 @@
-package escola;
+package curso;
 
 public class Curso {
 	
-	String materia;
 	Professor professor;
+	String materia;
+	int duracao;
 }

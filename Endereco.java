@@ -1,4 +1,4 @@
-package escola;
+package curso;
 
 public class Endereco {
 
