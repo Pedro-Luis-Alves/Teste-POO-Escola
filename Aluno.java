@@ -2,10 +2,10 @@ package escola;
 
 public class Aluno {
 
-	String Nome;
+	String nome;
 	int idade;
 	int id;
 	int cpf;
-	int serie;
-	String curso;
+	Curso curso;
+	Endereco endereco;
 }

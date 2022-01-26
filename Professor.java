@@ -3,6 +3,7 @@ package escola;
 public class Professor {
 
 	String nome;
-	String materia;
+	String formacao;
 	int id;
+	Endereco endereco;
 }
